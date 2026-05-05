@@ -2,27 +2,53 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-###
+# 👋 Hey, I'm Rafiq
 
-<h1 align="left">Hey 👋 What's up?</h1>
+🚀 Frontend-focused developer building fast, scalable, and polished web & mobile experiences.
 
-###
+I specialize in **React**, **Next.js**, and **TypeScript**, with solid full-stack capabilities using **Node.js**, **Express**, and modern cloud tools. I care about clean architecture, performance, and delivering products that actually ship.
 
-<p align="center">My name is Soufiane Rafiq and I'm a Fullstack developer from Morocco</p>
+---
 
-###
+## 🧠 What I Do
 
-<h2 align="left">About me</h2>
+* ⚡ Build high-performance web apps with modern React ecosystems
+* 📱 Develop cross-platform mobile apps with React Native
+* 🔌 Design and implement scalable backend APIs
+* 🎨 Craft clean, intuitive UI/UX with attention to detail
+* 🤖 Integrate AI tools and workflows into real-world products
 
-###
+---
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning React Native and C#<br>🎯 Goals: write code and retire as a farmer<br>🎲 Fun fact: I know 2 facts about ducks, and they are both wrong</p>
+## 🛠️ Tech Stack
 
-###
+```ts
+Frontend:  React, Next.js, TypeScript, Redux, Tailwind
+Mobile:    React Native, Expo
+Backend:   Node.js, Express
+Cloud:     AWS S3, Supabase
+Tools:     Git, Docker, n8n, REST APIs
+```
 
-<h2 align="left">I code with</h2>
+---
 
-###
+## 🚀 Current Focus
+
+* Building advanced interactive UIs (2D/3D editors, canvas-based tools)
+* Scaling AI-powered systems and automation workflows
+* Shipping products fast without sacrificing quality
+
+---
+
+## 📫 Let's Connect
+
+* Open to collaboration, freelance, and interesting projects
+* Always learning, always building
+
+---
+
+> *"Ideas are cheap. Execution is everything."*
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
