@@ -71,8 +71,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=Soufianerfq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&cache_seconds=86400"/>
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soufianerfq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400"/>
+  <img height="165px" src="https://github-stats-extended.vercel.app/api?username=Soufianerfq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117"/>
+  <img height="165px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Soufianerfq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
@@ -80,7 +80,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Soufianerfq&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+  <img src="https://github-trophies.vercel.app/?username=Soufianerfq&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"/>
 </div>
 
 ---
