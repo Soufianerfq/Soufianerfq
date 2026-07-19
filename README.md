@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Soufiane%20Refouq&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Web%20%26%20Mobile&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Soufiane%20Refouq&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20building%20Web%20and%20Mobile%20Apps&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
@@ -71,16 +71,16 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=Soufianerfq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117"/>
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soufianerfq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=Soufianerfq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&cache_seconds=86400"/>
+  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soufianerfq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soufianerfq&theme=tokyonight&hide_border=true&background=0D1117"/>
+  <img src="https://streak-stats.demolab.com/?user=Soufianerfq&theme=tokyonight&hide_border=true&background=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Soufianerfq&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Soufianerfq&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"/>
 </div>
 
 ---
