@@ -1,99 +1,136 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hey, I'm Rafiq
+<div align="center">
 
-```ts
-const rafiq = {
-    role: "Frontend Engineer",
-    location: "Morocco 🇲🇦",
-    currentlyBuilding: "Modern SaaS & AI Applications",
-    experience: [
-        "2 SaaS Startups",
-        "Web3 / Crypto",
-        "React Native",
-        "Full Stack Development"
-    ],
-    learning: ["Docker", "Kubernetes", "CI/CD"],
-    motto: "Build. Ship. Repeat."
-};
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:3B82F6,100:8B5CF6&text=Rafiq%20Soufiane&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+
+# Frontend Engineer
+
+### Building modern SaaS, AI & Web3 products.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=React+%7C+Next.js+%7C+TypeScript;Frontend+Engineer;Building+Products+That+Scale;Always+Learning+Something+New" />
+
+</div>
+
+---
+
+## 👋 About Me
+
+I'm a **Frontend-focused Full Stack Engineer** with experience building production applications for fast-moving startups.
+
+Over the past few years I've helped build:
+
+- 🚀 Two SaaS platforms
+- 🪙 A Web3 / Crypto platform
+- 🤖 AI-powered applications
+- 📱 Cross-platform mobile apps with React Native
+
+My primary stack is **React, Next.js, TypeScript, Node.js, PostgreSQL, Supabase, and Google Cloud**, and I'm comfortable taking features from concept to production across the full stack.
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,postgres,mongodb,supabase,gcp,docker,git,github,vscode,figma,redux,tailwind&perline=8"/>
+
+</div>
+
+---
+
+## 💼 Experience
+
+```text
+✔ Startup Environments
+✔ SaaS Platforms
+✔ Web3 / Crypto
+✔ AI Integrations
+✔ React Native Applications
+✔ Full Stack Development
+✔ REST APIs
+✔ Google Cloud
+✔ PostgreSQL & Supabase
 ```
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Featured Projects
 
-<p align="center">
+### 🤖 AI Applications
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,postgres,mongodb,aws,docker,git,github,vscode,figma&perline=7"/>
-
-</p>
+Production AI-powered applications integrating modern LLMs with intuitive user experiences.
 
 ---
 
-## 💼 Startup Experience
+### ☁️ SaaS Platforms
 
-🚀 Built production applications in **fast-paced startup environments**
-
-💰 **Web3 / Crypto Platform**
-
-☁️ **Two SaaS Products**
-
-📱 **Cross-platform Mobile Apps**
-
-🤖 **AI Integrations**
-
-⚡ From UI implementation to backend APIs and cloud deployment.
+Built and maintained scalable SaaS products using React, Next.js, TypeScript, Node.js, PostgreSQL and Supabase.
 
 ---
 
-## 📊 GitHub Stats
+### 🪙 Web3 Platform
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+Developed frontend experiences and platform features for a crypto-focused startup.
 
 ---
 
-## 🔥 GitHub Streak
+### 📱 Mobile Applications
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
+Cross-platform mobile apps built with React Native.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🌱 Currently Learning
 
-<p align="center">
+I'm currently expanding my infrastructure and DevOps knowledge.
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=6"/>
-
-</p>
+- 🐳 Docker
+- ☸️ Kubernetes
+- ⚙️ GitHub Actions
+- 🚀 CI/CD Pipelines
+- ☁️ Cloud Infrastructure
 
 ---
 
-## 🌐 Connect With Me
+## 📈 GitHub Activity
 
-<p align="center">
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
 
-</p>
+<br><br>
+
+> *"Building software is one thing. Building products people love is another."*
+
+</div>
