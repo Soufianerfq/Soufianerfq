@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:3B82F6,100:8B5CF6&text=Rafiq%20Soufiane&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-# Frontend Engineer
+# Software Engineer
 
 ### Building modern SaaS, AI & Web3 products.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=React+%7C+Next.js+%7C+TypeScript;Frontend+Engineer;Building+Products+That+Scale;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=React+%7C+Next.js+%7C+TypeScript;Software+Engineer;Building+Products+That+Scale;Always+Learning+Something+New" />
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-I'm a **Frontend-focused Full Stack Engineer** with experience building production applications for fast-moving startups.
+I'm a **Software Engineer** with a frontend focus and experience building production applications for fast-moving startups.
 
 Over the past few years I've helped build:
 
@@ -95,7 +95,7 @@ I'm currently expanding my infrastructure and DevOps knowledge.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Soufianerfq&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -105,7 +105,7 @@ I'm currently expanding my infrastructure and DevOps knowledge.
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Soufianerfq">
 <img src="https://skillicons.dev/icons?i=github" height="48"/>
 </a>
 
@@ -127,7 +127,7 @@ I'm currently expanding my infrastructure and DevOps knowledge.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=Soufianerfq&style=for-the-badge&color=blueviolet"/>
 
 <br><br>
 
