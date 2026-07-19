@@ -1,39 +1,51 @@
-# Rafiq Soufiane
-
-```bash
-$ whoami
+────────────────────────────────────
 
 Rafiq Soufiane
 
 Software Engineer
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-> experience
-
-✓ 2 SaaS startups
-✓ Web3 / Crypto
-✓ AI Applications
-✓ React Native
-
-> stack
+Building products for startups.
 
 React
 Next.js
 TypeScript
 Node.js
-Supabase
-PostgreSQL
-Google Cloud
 
-> currently_learning
+────────────────────────────────────
 
-Docker
-Kubernetes
-CI/CD
+Featured Work
 
-> contact
+────────────────────────────────────
 
-github.com/Soufianerfq
-linkedin.com/in/your-linkedin
-```
+🟪 SaaS Platform
+
+Large screenshot
+
+React • TS • Supabase
+
+────────────────────────────────────
+
+🟦 Crypto Platform
+
+Large screenshot
+
+────────────────────────────────────
+
+🟩 AI Product
+
+Large screenshot
+
+────────────────────────────────────
+
+Experience
+
+2023 — Present
+
+Software Engineer
+
+• 2 SaaS startups
+• Web3
+• AI
+• Mobile
+
+────────────────────────────────────
