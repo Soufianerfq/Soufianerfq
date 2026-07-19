@@ -1,216 +1,108 @@
 <div align="center">
 
-# Rafiq Soufiane
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Soufiane%20Refouq&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Web%20%26%20Mobile&descAlignY=58&descSize=18" width="100%"/>
 
-### Software Engineer
+</div>
 
-Building products for startups — SaaS • AI • Web3
+<div align="center">
 
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%2B+Next.js+%2B+React+Native;Node.js+%2B+Express+%2B+Supabase;Building+for+Web%2C+Mobile+%26+Cloud+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
-<a href="https://github.com/Soufianerfq">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</div>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://github.com/Soufianerfq"><img src="https://komarev.com/ghpvc/?username=Soufianerfq&label=Profile%20Views&color=6366F1&style=flat" alt="Profile views"/></a>
+  <img src="https://img.shields.io/github/followers/Soufianerfq?label=Followers&style=flat&color=22D3EE" alt="Followers"/>
+</p>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+---
 
+### 👋 About Me
+
+- 🚀 Full Stack Developer building fast, scalable products across **web, mobile, and cloud**
+- 🧠 Focused on clean architecture, type-safe code, and great developer experience
+- 🔭 Currently building with **Next.js**, **React Native**, and **Supabase**
+- 🌱 Always leveling up on cloud infra and DevOps (Docker, GCP)
+- ⚡ Fun fact: I ship UI as fast as I ship APIs
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+<p align="center"><b>Frontend</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white"/>
+</p>
+
+<p align="center"><b>Mobile</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+<p align="center"><b>Backend</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+<p align="center"><b>Database & Backend-as-a-Service</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+<p align="center"><b>Cloud & DevOps</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=Soufianerfq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117"/>
+  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soufianerfq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soufianerfq&theme=tokyonight&hide_border=true&background=0D1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Soufianerfq&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"/>
 </div>
 
 ---
 
-# About
+### 📈 Contribution Graph
 
-```typescript
-const rafiq = {
-    role: "Software Engineer",
-
-    location: "Morocco",
-
-    experience: [
-        "2 SaaS Startups",
-        "Web3 / Crypto",
-        "AI Applications",
-        "React Native"
-    ],
-
-    frontend: [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Redux",
-        "TailwindCSS"
-    ],
-
-    backend: [
-        "Node.js",
-        "Express",
-        "PostgreSQL",
-        "MongoDB",
-        "Supabase"
-    ],
-
-    cloud: [
-        "Google Cloud"
-    ],
-
-    learning: [
-        "Docker",
-        "Kubernetes",
-        "CI/CD"
-    ]
-}
-```
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soufianerfq&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+</div>
 
 ---
 
-# Tech Stack
+### 🤝 Connect With Me
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,postgres,mongodb,supabase,gcp,docker,git,github,figma,vscode&theme=dark"/>
-
+  <a href="https://www.linkedin.com/in/soufiane-rafiq-a7b275203/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://my-portfolio2025-2026.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/Soufiane-Rafiq"><img src="https://img.shields.io/badge/Work%20@%20Company-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
+<div align="center">
 
-# Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=120&section=footer" width="100%"/>
 
-<table>
-<tr>
-
-<td width="50%">
-
-### 🚀 SaaS Platform
-
-Production-ready SaaS application built with modern React and TypeScript.
-
-**Stack**
-
-React • Next.js • Node.js • PostgreSQL • Supabase
-
-</td>
-
-<td width="50%">
-
-### 🪙 Web3 Platform
-
-Crypto platform built for a fast-moving startup.
-
-**Stack**
-
-React • TypeScript • Node.js
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🤖 AI Applications
-
-LLM integrations, AI workflows and modern frontend experiences.
-
-</td>
-
-<td width="50%">
-
-### 📱 React Native
-
-Cross-platform mobile applications.
-
-</td>
-
-</tr>
-</table>
-
----
-
-# Experience
-
-```text
-Software Engineer
-
-✔ Startup Environments
-
-✔ Full Stack Development
-
-✔ SaaS Products
-
-✔ Web3
-
-✔ AI
-
-✔ Mobile Applications
-
-✔ REST APIs
-
-✔ Google Cloud
-
-✔ PostgreSQL
-
-✔ Supabase
-```
-
----
-
-# Currently Learning
-
-```text
-Docker
-
-Kubernetes
-
-CI/CD
-
-Cloud Infrastructure
-```
-
----
-
-# GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Soufianerfq&theme=github-compact&hide_border=true"/>
-
-</p>
-
----
-
-# GitHub Stats
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Soufianerfq&show_icons=true&hide_border=true&theme=github_dark"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soufianerfq&layout=compact&hide_border=true&theme=github_dark"/>
-
-</p>
-
----
-
-# Connect
-
-<p align="center">
-
-<a href="https://github.com/Soufianerfq">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
+</div>
